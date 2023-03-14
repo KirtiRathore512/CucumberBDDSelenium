@@ -1,0 +1,4 @@
+2023-Mar-14 12:45:59 PM [main] INFO  vit.automationTesting.Core.WebDriverFactory - Chrome Browser Invoked
+2023-Mar-14 12:45:59 PM [main] INFO  vit.automationTesting.Core.WebDriverFactory - Browser gor maximize and implicit wait dor 20 seconds
+2023-Mar-14 12:45:59 PM [main] INFO  vit.automationTesting.stepdefs.StepDefs - Browser got Set
+2023-Mar-14 12:46:21 PM [main] INFO  vit.automationTesting.Core.WebDriverFactory - Browser got Closed

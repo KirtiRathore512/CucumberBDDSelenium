@@ -1,0 +1,4 @@
+2023-Feb-21 14:12:51 PM [main] INFO  vit.automationTesting.stepdefs.StepDefs - Browser got Set
+2023-Feb-21 14:12:51 PM [main] INFO  vit.automationTesting.stepdefs.StepDefs - Browser got Maximize
+2023-Feb-21 14:12:51 PM [main] INFO  vit.automationTesting.stepdefs.StepDefs - Browser implicit timeout set to :> 20
+2023-Feb-21 14:14:01 PM [main] INFO  vit.automationTesting.stepdefs.StepDefs - Browser got Closed

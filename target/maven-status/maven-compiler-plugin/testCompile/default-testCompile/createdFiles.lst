@@ -1,0 +1,6 @@
+vit\automationTesting\pageObjects\ProductDescPageObject.class
+vit\automationTesting\stepdefs\StepDefs.class
+vit\automationTesting\Core\WebDriverFactory.class
+vit\automationTesting\runners\TestRunner.class
+vit\automationTesting\pageObjects\ProductListingPageObject.class
+vit\automationTesting\pageObjects\LandingPageObject.class

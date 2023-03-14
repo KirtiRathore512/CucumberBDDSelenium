@@ -1,0 +1,9 @@
+2023-Feb-25 15:21:14 PM [main] INFO  vit.automationTesting.Core.WebDriverFactory - Chrome Browser Invoked
+2023-Feb-25 15:21:14 PM [main] INFO  vit.automationTesting.Core.WebDriverFactory - Browser gor maximize and implicit wait dor 20 seconds
+2023-Feb-25 15:21:14 PM [main] INFO  vit.automationTesting.stepdefs.StepDefs - Browser got Set
+2023-Feb-25 15:21:43 PM [main] INFO  vit.automationTesting.pageObjects.LandingPageObject - Browser got invoke the base URL:> https://amazon.in
+2023-Feb-25 15:21:52 PM [main] INFO  vit.automationTesting.pageObjects.LandingPageObject - Assertion of page Validation title was passed with expectes as:> Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.inAs Actual was:> Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2023-Feb-25 15:21:58 PM [main] INFO  vit.automationTesting.pageObjects.LandingPageObject - Waiting for Element:> SearchBoxElement to be clickable
+2023-Feb-25 15:21:59 PM [main] INFO  vit.automationTesting.pageObjects.LandingPageObject - Sending Key into WebElement:> SearchBoxElement
+2023-Feb-25 15:22:06 PM [main] INFO  vit.automationTesting.pageObjects.LandingPageObject - Clickimg on the Search Button
+2023-Feb-25 15:22:34 PM [main] INFO  vit.automationTesting.Core.WebDriverFactory - Browser got Closed
